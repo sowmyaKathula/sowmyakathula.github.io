@@ -1,1 +1,1 @@
-## [I'm an inline-style link](https://sowmyakathula.github.io)
+## [My Profile](https://sowmyakathula.github.io)
